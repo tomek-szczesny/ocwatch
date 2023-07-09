@@ -1,5 +1,5 @@
 ## ocwatch
-OpenClock internet game watch
+OpenClonk internet game watch
 
 OpenClonk is a great game, but throughout recent years, sadly, it fell into obscurity. It's hard to find players for cooperative games, and most of the time online lobby is empty. But certainly, not always.
 
